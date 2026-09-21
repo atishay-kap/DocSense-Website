@@ -2,6 +2,12 @@
 
 The static marketing site for DocSense - a document Q&A experience built around source-aware answers.
 
+## Live site
+
+After GitHub Pages is enabled, the site is available at:
+
+https://atishay-kap.github.io/DocSense-Website/
+
 ## Stack
 
 - HTML, CSS, and vanilla JavaScript
