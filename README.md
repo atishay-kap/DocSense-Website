@@ -1,12 +1,12 @@
-# DocSense landing site
+# DocuGenie landing site
 
-The static marketing site for DocSense - a document Q&A experience built around source-aware answers.
+The static marketing site for DocuGenie - a document Q&A experience built around source-aware answers.
 
 ## Live site
 
 After GitHub Pages is enabled, the site is available at:
 
-https://atishay-kap.github.io/DocSense-Website/
+https://atishay-kap.github.io/DocuGenie-Website/
 
 ## Stack
 
@@ -16,7 +16,7 @@ https://atishay-kap.github.io/DocSense-Website/
 
 ## Run locally
 
-Open `docsense-landing.html` in a modern browser. No package install or build command is required.
+Open `index.html` in a modern browser. No package install or build command is required.
 
 ## Publish for free with GitHub Pages
 
